@@ -16,5 +16,7 @@ class Dog
     @breed
   end 
 end 
-  
+
+dog_one = Dog.name("Lassie")
+puts dog_one.name 
   
